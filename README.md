@@ -1,2 +1,2 @@
 # About-Me
-Hello Everyone! It's a short text about me. Thanks for reading this text.
+print("Hell0 everyone! " + "Thanks for reading this short text.")
